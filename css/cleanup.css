@@ -18,3 +18,7 @@
 #wall div.parent div#tag-5.slick {
   background: none;
 }
+
+div#wall div.parent div:last-child div#tag-6 {
+  background: none;
+}
