@@ -3,4 +3,6 @@
   display: none;
 }
 
-.tag
+#wall #tag-2 {
+  display:non;
+}
